@@ -1,0 +1,22 @@
+input,
+button{
+    display: block;
+    width: 60%;
+    margin-bottom: 8px;
+    padding: 8px;
+    border-radius: 20px;
+    resize: none;
+}
+
+
+button {
+    background-color: black;
+    text-transform: uppercase;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    font-style: italic;
+    cursor: pointer;
+    text-align: center;
+}
+
